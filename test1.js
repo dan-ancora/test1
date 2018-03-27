@@ -1,0 +1,1 @@
+alert('Ana are mere');
