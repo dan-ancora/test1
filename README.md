@@ -2,7 +2,7 @@
 Just testing GitHub by Dan
 and Zsolt
 
-#Sectiune
-<b>Ana are mere</b>
+# Sectiune
+' Ana are mere
 
 
